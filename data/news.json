@@ -12,18 +12,18 @@
       "published": true,
       "title": {
         "ru": "Госрегистрация учредительного выпуска акций ОАО «М-БИРкоин»",
-        "en": "",
-        "ky": ""
+        "en": "State registration of the founding issue of shares of OJSC “M‑BIRcoin”",
+        "ky": "«М-БИРкоин» ААЖнын жөнөкөй акцияларынын негизги чыгарылышы мамлекеттик каттоодон өттү"
       },
       "excerpt": {
         "ru": "Служба регулирования и надзора за финансовым рынком зарегистрировала выпуск 2 000 простых именных акций номиналом 100 сом (200 000 сом).",
-        "en": "",
-        "ky": ""
+        "en": "The financial market regulator registered an issue of 2,000 ordinary registered shares with a nominal value of 100 KGS (total 200,000 KGS).",
+        "ky": "Финансы рыногун жөнгө салуу кызматы 100 сом номиналдагы 2 000 даана жөнөкөй аттуу акция чыгарылышын каттады (жалпы 200 000 сом)."
       },
       "body": {
         "ru": "<p>Получено решение регулятора о государственной регистрации учредительного выпуска простых именных акций ОАО «М-БИРкоин».</p><ul><li>Объём выпуска: <strong>2 000</strong> акций</li><li>Номинал: <strong>100 сом</strong> за акцию</li><li>Итого: <strong>200 000 сом</strong></li></ul><p>Регистрация открывает путь к последующей дополнительной эмиссии и работе с реестром акционеров.</p>",
-        "en": "",
-        "ky": ""
+        "en": "<p>The regulator has issued a decision on state registration of the founding issue of ordinary registered shares of OJSC “M‑BIRcoin”.</p><ul><li>Volume: <strong>2,000</strong> shares</li><li>Nominal value: <strong>100 KGS</strong> per share</li><li>Total: <strong>200,000 KGS</strong></li></ul><p>This registration paves the way for a subsequent additional issue and work with the shareholders’ register.</p>",
+        "ky": "<p>Регулятор «М‑БИРкоин» ААЖнын жөнөкөй аттуу акцияларынын негизги чыгарылышын мамлекеттик каттоодон өткөрдү.</p><ul><li>Көлөмү: <strong>2 000</strong> акция</li><li>Номинал: ар бирине <strong>100 сом</strong></li><li>Жалпы сумма: <strong>200 000 сом</strong></li></ul><p>Бул кадам кийинки кошумча эмиссияга жана акционерлер реестри менен иштөөгө жол ачат.</p>"
       },
       "tags": {
         "ru": [
@@ -31,8 +31,16 @@
           "Регулятор",
           "Эмиссия"
         ],
-        "en": [],
-        "ky": []
+        "en": [
+          "Shares",
+          "Regulator",
+          "Issue"
+        ],
+        "ky": [
+          "Акциялар",
+          "Регулятор",
+          "Эмиссия"
+        ]
       }
     },
     {
@@ -41,18 +49,18 @@
       "published": true,
       "title": {
         "ru": "ОАО «М-БИРкоин» зарегистрировано в ЕГР (Минюст КР)",
-        "en": "",
-        "ky": ""
+        "en": "OJSC “M‑BIRcoin” registered in the Unified State Register (Ministry of Justice of the Kyrgyz Republic)",
+        "ky": "«М‑БИРкоин» ААЖ ЮСБге катталды (КР Юстиция министрлиги)"
       },
       "excerpt": {
         "ru": "Юрлицо внесено в ЕГР: рег. № 320526-3301-ОАО, ИНН 02409202510042, адрес — Бишкек, Московская 262.",
-        "en": "",
-        "ky": ""
+        "en": "The legal entity has been entered into the Register: Reg. No. 320526‑3301‑OJSC, TIN 02409202510042, address — Bishkek, Moskovskaya 262.",
+        "ky": "Юридикалык жак ЮСБге киргизилди: каттоо № 320526‑3301‑ААЖ, СТТН 02409202510042, дарек — Бишкек, Московская 262."
       },
       "body": {
-        "ru": "<p>Открытое акционерное общество «М-БИРкоин» внесено в ЕГР юрлиц Кыргызской Республики.</p><ul><li>Регистрационный номер: <strong>320526-3301-ОАО</strong></li><li>ОКПО: <strong>34235045</strong>; ИНН: <strong>02409202510042</strong></li><li>Адрес: Бишкек, ул. Московская, 262</li><li>Руководитель: Таштанбек уулу Бактыбек</li><li>Ссылка на карточку ЕГР: <a href=\"https://record.minjust.gov.kg/view/02409202510042\" target=\"_blank\" rel=\"noopener\">record.minjust.gov.kg</a></li></ul>",
-        "en": "",
-        "ky": ""
+        "ru": "<p>Открытое акционерное общество «М‑БИРкоин» внесено в ЕГР юрлиц Кыргызской Республики.</p><ul><li>Регистрационный номер: <strong>320526-3301-ОАО</strong></li><li>ОКПО: <strong>34235045</strong>; ИНН: <strong>02409202510042</strong></li><li>Адрес: Бишкек, ул. Московская, 262</li><li>Руководитель: Таштанбек уулу Бактыбек</li><li>Ссылка на карточку ЕГР: <a href=\"https://record.minjust.gov.kg/view/02409202510042\" target=\"_blank\" rel=\"noopener\">record.minjust.gov.kg</a></li></ul>",
+        "en": "<p>Open Joint‑Stock Company “M‑BIRcoin” has been entered into the Unified State Register of Legal Entities of the Kyrgyz Republic.</p><ul><li>Registration No.: <strong>320526‑3301‑OJSC</strong></li><li>OKPO: <strong>34235045</strong>; TIN: <strong>02409202510042</strong></li><li>Address: Bishkek, Moskovskaya St., 262</li><li>Director: Tashtanbek uulu Baktybek</li><li>Register card: <a href=\"https://record.minjust.gov.kg/view/02409202510042\" target=\"_blank\" rel=\"noopener\">record.minjust.gov.kg</a></li></ul>",
+        "ky": "<p>«М‑БИРкоин» ААЖ Кыргыз Республикасынын юридикалык жактардын бирдиктүү мамлекеттик реестринде катталды.</p><ul><li>Каттоо №: <strong>320526‑3301‑ААЖ</strong></li><li>ОКПО: <strong>34235045</strong>; СТТН: <strong>02409202510042</strong></li><li>Дарек: Бишкек, Московская көч., 262</li><li>Жетекчи: Таштанбек уулу Бактыбек</li><li>Реестр картасы: <a href=\"https://record.minjust.gov.kg/view/02409202510042\" target=\"_blank\" rel=\"noopener\">record.minjust.gov.kg</a></li></ul>"
       },
       "tags": {
         "ru": [
@@ -60,8 +68,16 @@
           "Минюст",
           "Документы"
         ],
-        "en": [],
-        "ky": []
+        "en": [
+          "Registration",
+          "Ministry of Justice",
+          "Documents"
+        ],
+        "ky": [
+          "Каттоо",
+          "Юстиция министрлиги",
+          "Документтер"
+        ]
       }
     },
     {
@@ -70,26 +86,32 @@
       "published": true,
       "title": {
         "ru": "Устав ОАО «М-БИРкоин» утверждён учредителями",
-        "en": "",
-        "ky": ""
+        "en": "The Charter of OJSC “M‑BIRcoin” approved by the founders",
+        "ky": "«М‑БИРкоин» ААЖнын Уставы негиздөөчүлөр тарабынан бекитилди"
       },
       "excerpt": {
         "ru": "Зафиксирован адрес (БЦ «Айтур», Московская 262), органы управления и резервный фонд ≥ 10% уставного капитала.",
-        "en": "",
-        "ky": ""
+        "en": "Address (Aytur BC, Moskovskaya 262), governance bodies and a reserve fund ≥ 10% of charter capital are defined.",
+        "ky": "Дарек (Айтур БК, Московская 262), башкаруу органдары жана уставдык капиталдын ≥ 10% резерв фонду белгиленди."
       },
       "body": {
-        "ru": "<p>Учредители утвердили Устав ОАО «М-БИРкоин» (протокол № 1 от 24.09.2025).</p><ul><li>Наименование: на кыргызском, русском и английском</li><li>Адрес: Бишкек, БЦ «Айтур», ул. Московская, 262</li><li>Органы: Общее собрание, Совет директоров, Правление, Ревизионная комиссия</li><li>Резервный фонд: не менее <strong>10%</strong> уставного капитала</li><li>Взаимодействие с банком, аудитором и регистратором согласно Уставу</li></ul><p>Срок деятельности Общества — не ограничен.</p>",
-        "en": "",
-        "ky": ""
+        "ru": "<p>Учредители утвердили Устав ОАО «М‑БИРкоин» (протокол № 1 от 24.09.2025).</p><ul><li>Наименование: на кыргызском, русском и английском</li><li>Адрес: Бишкек, БЦ «Айтур», ул. Московская, 262</li><li>Органы: Общее собрание, Совет директоров, Правление, Ревизионная комиссия</li><li>Резервный фонд: не менее <strong>10%</strong> уставного капитала</li><li>Взаимодействие с банком, аудитором и регистратором согласно Уставу</li></ul><p>Срок деятельности Общества — не ограничен.</p>",
+        "en": "<p>The founders approved the Charter of OJSC “M‑BIRcoin” (Minutes No. 1 dated 24.09.2025).</p><ul><li>Name fixed in Kyrgyz, Russian and English</li><li>Address: Bishkek, Aytur BC, Moskovskaya 262</li><li>Governing bodies: General Meeting, Board of Directors, Executive Board, Audit Commission</li><li>Reserve fund: at least <strong>10%</strong> of the charter capital</li><li>Interaction with the bank, auditor and registrar as stipulated by the Charter</li></ul><p>The Company’s term of activity is not limited.</p>",
+        "ky": "<p>Негиздөөчүлөр 24.09.2025-деги №1 протокол менен «М‑БИРкоин» ААЖнын Уставын бекитишти.</p><ul><li>Аталышы: кыргыз, орус жана англис тилдеринде</li><li>Дарек: Бишкек, «Айтур» БК, Московская 262</li><li>Башкаруу органдары: Жалпы жыйын, Директорлор кеңеши, Башкарма, Ревизиялык комиссия</li><li>Резервдик фонд: уставдык капиталдын кеминде <strong>10%</strong></li><li>Банк, аудитор жана регистратор менен өз ара аракеттенүү Уставда көрсөтүлгөн</li></ul><p>Ишмердүүлүк мөөнөтү чектелбейт.</p>"
       },
       "tags": {
         "ru": [
           "Корпуправление",
           "Документы"
         ],
-        "en": [],
-        "ky": []
+        "en": [
+          "Corporate governance",
+          "Documents"
+        ],
+        "ky": [
+          "Башкаруу",
+          "Документтер"
+        ]
       }
     },
     {
@@ -98,18 +120,18 @@
       "published": true,
       "title": {
         "ru": "Опубликована «Памятка акционеру»: эмиссия и привилегии",
-        "en": "",
-        "ky": ""
+        "en": "“Shareholder memo” published: issuance and benefits",
+        "ky": "«Акционерге эскертме» жарыяланды: эмиссия жана артыкчылыктар"
       },
       "excerpt": {
         "ru": "Конгресс утвердил экосистему и Совет (50 человек). Учредительная эмиссия — 2 000 акций × 100 сом; планируется допэмиссия 4 000 000 акций.",
-        "en": "",
-        "ky": ""
+        "en": "The Congress approved the ecosystem and the Council (50 members). Founding issue — 2,000 shares × 100 KGS; an additional issue of 4,000,000 shares is planned.",
+        "ky": "Конгресс экосистеманы жана Кеңешти (50 адам) бекитти. Негизги эмиссия — 2 000 акция × 100 сом; 4 000 000 акция кошумча чыгаруу пландалууда."
       },
       "body": {
         "ru": "<p>Опубликована «Памятка акционеру» с основными решениями и преимуществами участия:</p><ul><li>Учредительная эмиссия: <strong>2 000</strong> акций × <strong>100 сом</strong> (итого 200 000 сом)</li><li>План допэмиссии: <strong>4 000 000</strong> акций × <strong>100 сом</strong> (итого 400 млн сом)</li><li>Совет экосистемы: <strong>50</strong> человек</li><li>Привилегии: скидка <strong>10%</strong> для официальных членов при повторных покупках монет; права и обязанности акционеров</li></ul><p>Цель — легальный мост между криптоиндустрией и реальной экономикой через собственный блокчейн BIRcoin и финтех-сервисы.</p>",
-        "en": "",
-        "ky": ""
+        "en": "<p>We have published a “Shareholder memo” summarising key decisions and benefits:</p><ul><li>Founding issue: <strong>2,000</strong> shares × <strong>100 KGS</strong> (total 200,000 KGS)</li><li>Planned additional issue: <strong>4,000,000</strong> shares × <strong>100 KGS</strong> (total 400 million KGS)</li><li>Ecosystem Council: <strong>50</strong> members</li><li>Benefits: a <strong>10%</strong> discount for official members on repeat coin purchases; rights and obligations of shareholders</li></ul><p>Goal — a legal bridge between crypto and the real economy via our own BIRcoin blockchain and fintech services.</p>",
+        "ky": "<p>Башкы чечимдер менен артыкчылыктарды камтыган «Акционерге эскертме» жарыяланды:</p><ul><li>Негизги эмиссия: <strong>2 000</strong> акция × <strong>100 сом</strong> (жалпы 200 000 сом)</li><li>Пландалган кошумча эмиссия: <strong>4 000 000</strong> акция × <strong>100 сом</strong> (жалпы 400 млн сом)</li><li>Экосистема Кеңеши: <strong>50</strong> адам</li><li>Артыкчылыктар: расмий мүчөлөр үчүн кайталанган сатып алууда <strong>10%</strong> арзандатуу; акционердин укук‑милдеттери</li></ul><p>Максат — BIRcoin блокчейни жана финтех-сервистер аркылуу крипто менен реалдуу экономика ортосунда мыйзамдуу көпүрө түзүү.</p>"
       },
       "tags": {
         "ru": [
@@ -117,8 +139,16 @@
           "Экосистема",
           "Эмиссия"
         ],
-        "en": [],
-        "ky": []
+        "en": [
+          "Shareholders",
+          "Ecosystem",
+          "Issue"
+        ],
+        "ky": [
+          "Акционерлерге",
+          "Экосистема",
+          "Эмиссия"
+        ]
       }
     }
   ]
