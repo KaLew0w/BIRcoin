@@ -150,33 +150,6 @@
           "Эмиссия"
         ]
       }
-    },
-    {
-      "id": "test-3",
-      "date": "2025-10-15",
-      "published": true,
-      "title": {
-        "ru": "Тест 3",
-        "en": "",
-        "ky": ""
-      },
-      "excerpt": {
-        "ru": "adawda",
-        "en": "",
-        "ky": ""
-      },
-      "body": {
-        "ru": "<p>asdawdawdaw</p>",
-        "en": "<p><br></p>",
-        "ky": "<p><br></p>"
-      },
-      "tags": {
-        "ru": [
-          "Тест"
-        ],
-        "en": [],
-        "ky": []
-      }
     }
   ]
 }
