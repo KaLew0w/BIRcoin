@@ -150,40 +150,6 @@
           "Эмиссия"
         ]
       }
-    },
-    {
-      "id": "novaya-informaciya-po-tokenu",
-      "date": "2025-10-21",
-      "published": true,
-      "title": {
-        "ru": "Новая информация по Токену",
-        "en": "New information on the Token",
-        "ky": "Токен боюнча жаңы маалымат"
-      },
-      "excerpt": {
-        "ru": "Краткий заголовок новости ",
-        "en": "Brief news headline",
-        "ky": "Кыскача кабар баш макаласы"
-      },
-      "body": {
-        "ru": "<p><strong>Полное </strong><em>описание </em><u>новости&nbsp;</u><a target=\"_blank\" rel=\"noopener\" href=\"ссылка\">ссылка</a></p>",
-        "en": "<p>Full description of the news</p>",
-        "ky": "<p>Кабардын толук сүрөттөлүшү</p>"
-      },
-      "tags": {
-        "ru": [
-          "Токен",
-          "Экосистема"
-        ],
-        "en": [
-          "Token",
-          "Ecosystem"
-        ],
-        "ky": [
-          "Токен",
-          "экосистема"
-        ]
-      }
     }
   ]
 }
