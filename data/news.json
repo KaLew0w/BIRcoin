@@ -150,40 +150,6 @@
           "Эмиссия"
         ]
       }
-    },
-    {
-      "id": "testzagolvok1",
-      "date": "2025-10-20",
-      "published": true,
-      "title": {
-        "ru": "ТестЗаголвок1",
-        "en": "ТестЗаголвокEN",
-        "ky": ""
-      },
-      "excerpt": {
-        "ru": "Краткое описание новости",
-        "en": "Краткое описание новости EN",
-        "ky": ""
-      },
-      "body": {
-        "ru": "<p><strong>Полное </strong><u>описание </u><em>новости </em><a target=\"_blank\" rel=\"noopener\" href=\"google.com\"><em>ссылка</em></a></p>",
-        "en": "<p><strong>Полное </strong><u>описание </u><em>новости </em><a target=\"_blank\" rel=\"noopener\" href=\"https://m-bircoin.com/admin/google.com\"><em>ссылка</em></a> EN</p>",
-        "ky": "<p><br></p>"
-      },
-      "tags": {
-        "ru": [
-          "Актуальное",
-          "Токен"
-        ],
-        "en": [
-          "Актуальное2",
-          "Токен2"
-        ],
-        "ky": [
-          "Актуальное3",
-          "Токен3"
-        ]
-      }
     }
   ]
 }
